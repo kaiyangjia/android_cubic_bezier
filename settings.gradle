@@ -1,0 +1,3 @@
+include ':demo'
+include ':cubic_bezier'
+rootProject.name = "cubic_bezier"
