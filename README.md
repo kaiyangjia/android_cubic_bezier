@@ -25,4 +25,4 @@ animator.start();
 http://yisibl.github.io/cubic-bezier/#.25,.1,.25,1
 
 ### TODO
-- [ ]: publish to jcenter
+- [ ]: publish to jcenter（Forget it. They already shut it down.）
